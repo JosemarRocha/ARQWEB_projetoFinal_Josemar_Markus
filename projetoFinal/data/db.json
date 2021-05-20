@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Deformação encontrada em algas marinhas",
+      "body": "Feik Nius",
+      "author": "Taliso",
+      "id": 1
+    },
+    {
+      "title": "Aonde tá o meu pai",
+      "body": "KD ELE?",
+      "author": "Timmy",
+      "id": 2
+    }
+  ]
+}
